@@ -11,6 +11,6 @@
   🎓 Formado em Desenvolvimento de Sistemas (ETEC) e cursando Análise e Desenvolvimento de Sistemas (UNIRP).<br>
   📍 São José do Rio Preto – SP.
 </p>
-
-<img align="right" height="174px" alt="" src="https://media.tenor.com/hgvTLTmTwBUAAAAM/cat-chill.gif">
+[
+<img align="right" height="174px" alt="" src="https://media.tenor.com/hgvTLTmTwBUAAAAM/cat-chill.gif">](https://i.redd.it/bpxxqqvps4h91.gif)
 </div>
