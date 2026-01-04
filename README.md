@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<br>
+
+<h3 align="left">Linguagens e Frameworks!</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,jupyter,sklearn,matplotlib,seaborn,numpy,pandas,html,css,js,react,mysql,wordpress,squarespace,php" />
 </p>
