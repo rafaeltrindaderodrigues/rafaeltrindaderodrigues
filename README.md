@@ -11,4 +11,6 @@
   📍 São José do Rio Preto – SP.
 </p>
 
-<img align="right" height="174px" alt="" src="https://i.redd.it/bpxxqqvps4h91.gif">
+<br>
+
+<img align="center" height="174px" alt="" src="https://i.redd.it/bpxxqqvps4h91.gif">
