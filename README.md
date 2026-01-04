@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="60%">
-      <p align="center">
+      <p align="center" width= 100px>
         👨‍💻 Desenvolvedor com foco em Back-End.<br>
         💡 Sempre aprendendo, criando e evoluindo.<br>
         🎓 Formado em Desenvolvimento de Sistemas (ETEC) e cursando Análise e Desenvolvimento de Sistemas (UNIRP).<br>
