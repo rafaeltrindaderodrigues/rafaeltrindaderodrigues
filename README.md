@@ -4,6 +4,7 @@
 
 <hr>
 
+<div style="display:flex">
 <p align="center">
   👨‍💻 Desenvolvedor com foco em Back-End.<br>
   💡 Sempre aprendendo, criando e evoluindo.<br>
@@ -13,6 +14,6 @@
 
 <br>
 
-<div align="center">
+
 <img height="174px" alt="" src="https://i.redd.it/bpxxqqvps4h91.gif">
 </div>
