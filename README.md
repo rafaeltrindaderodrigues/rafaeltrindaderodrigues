@@ -12,5 +12,5 @@
   📍 São José do Rio Preto – SP.
 </p>
 [
-<img align="right" height="174px" alt="" src="https://media.tenor.com/hgvTLTmTwBUAAAAM/cat-chill.gif">](https://i.redd.it/bpxxqqvps4h91.gif)
+<img align="right" height="174px" alt="" src="[https://media.tenor.com/hgvTLTmTwBUAAAAM/cat-chill.gif](https://i.redd.it/bpxxqqvps4h91.gif)">
 </div>
