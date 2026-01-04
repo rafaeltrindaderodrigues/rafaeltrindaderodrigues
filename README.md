@@ -13,4 +13,6 @@
 
 <br>
 
-<img align="center" height="174px" alt="" src="https://i.redd.it/bpxxqqvps4h91.gif">
+<div align="center">
+<img height="174px" alt="" src="https://i.redd.it/bpxxqqvps4h91.gif">
+</div>
