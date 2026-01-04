@@ -33,6 +33,4 @@
 <br>
 
 <h3 align="left">Linguagens e Frameworks!</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,jupyter,sklearn,matplotlib,seaborn,numpy,pandas,html,css,js,react,mysql,wordpress,squarespace,php" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,django,jupyter,sklearn,matplotlib,seaborn,numpy,pandas" /> </p>
