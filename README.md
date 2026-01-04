@@ -4,6 +4,7 @@
 
 <hr>
 
+<div style="display:flex">
 <p align="center">
   👨‍💻 Desenvolvedor com foco em Back-End.<br>
   💡 Sempre aprendendo, criando e evoluindo.<br>
@@ -12,3 +13,4 @@
 </p>
 
 <img align="right" height="174px" alt="" src="https://media.tenor.com/hgvTLTmTwBUAAAAM/cat-chill.gif">
+</div>
