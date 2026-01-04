@@ -22,6 +22,10 @@
   </tr>
 </table>
 
+<br>
+<br>
+
+<p> Para nos conhecermos melhor </p>
 <a href="https://www.linkedin.com/in/rafael-rodrigues-244b00253/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
